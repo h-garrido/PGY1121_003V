@@ -16,4 +16,4 @@ print("-"*30)
 print("\nEJERCICIO N° 2\n")
 arreglo3 = np.arange(1, 41)
 print(arreglo3.reshape(10, 4))
-
+print("-"*30)

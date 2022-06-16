@@ -12,6 +12,3 @@ print("-"*30)
 mult = arreglo1 * arreglo2
 print(mult, "Multiplicación de matrices")
 print("-"*30)
-
-
-
